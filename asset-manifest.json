@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Karanveer2202/tesla-clone/static/css/main.cdc3f938.css",
+    "main.js": "/Karanveer2202/tesla-clone/static/js/main.bf335da6.js",
+    "static/js/787.860837ff.chunk.js": "/Karanveer2202/tesla-clone/static/js/787.860837ff.chunk.js",
+    "static/media/logo.svg": "/Karanveer2202/tesla-clone/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/Karanveer2202/tesla-clone/index.html",
+    "main.cdc3f938.css.map": "/Karanveer2202/tesla-clone/static/css/main.cdc3f938.css.map",
+    "main.bf335da6.js.map": "/Karanveer2202/tesla-clone/static/js/main.bf335da6.js.map",
+    "787.860837ff.chunk.js.map": "/Karanveer2202/tesla-clone/static/js/787.860837ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdc3f938.css",
+    "static/js/main.bf335da6.js"
+  ]
+}
