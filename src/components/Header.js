@@ -62,6 +62,9 @@ const Container = styled.div`
 const Menu = styled.div`
     display: flex;
     align-items: center;
+    position: absolute;
+    left:50%;
+    transform: translateX(-50%);
     justify-content: center;
     flex: 1;
     a{
